@@ -1,0 +1,6 @@
+{
+  "name": "نبض الأخبار - News Pulse",
+  "description": "تطبيق إخباري تفاعلي متكامل مع تصنيفات، تخصيص الألوان، إدارة المصادر، المفضلة، الوضع الليلي، وبحث ذكي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
